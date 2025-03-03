@@ -1,17 +1,7 @@
 
 # Z wallet
 
-A decentalized crypto wallet.
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
+A decentalized cryptocurrency wallet.
     
 ## Demo
 
